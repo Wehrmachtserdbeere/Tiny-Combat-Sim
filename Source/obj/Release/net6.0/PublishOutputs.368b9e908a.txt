@@ -1,0 +1,5 @@
+f:\app\bin\Release\net6.0\publish\app.exe
+f:\app\bin\Release\net6.0\publish\app.dll
+f:\app\bin\Release\net6.0\publish\app.deps.json
+f:\app\bin\Release\net6.0\publish\app.runtimeconfig.json
+f:\app\bin\Release\net6.0\publish\app.pdb

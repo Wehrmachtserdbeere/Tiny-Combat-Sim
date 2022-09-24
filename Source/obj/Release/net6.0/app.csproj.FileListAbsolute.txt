@@ -1,0 +1,15 @@
+F:\app\bin\Release\net6.0\app.exe
+F:\app\bin\Release\net6.0\app.deps.json
+F:\app\bin\Release\net6.0\app.runtimeconfig.json
+F:\app\bin\Release\net6.0\app.dll
+F:\app\bin\Release\net6.0\app.pdb
+F:\app\obj\Release\net6.0\app.csproj.AssemblyReference.cache
+F:\app\obj\Release\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+F:\app\obj\Release\net6.0\app.AssemblyInfoInputs.cache
+F:\app\obj\Release\net6.0\app.AssemblyInfo.cs
+F:\app\obj\Release\net6.0\app.csproj.CoreCompileInputs.cache
+F:\app\obj\Release\net6.0\app.dll
+F:\app\obj\Release\net6.0\refint\app.dll
+F:\app\obj\Release\net6.0\app.pdb
+F:\app\obj\Release\net6.0\app.genruntimeconfig.cache
+F:\app\obj\Release\net6.0\ref\app.dll
